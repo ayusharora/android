@@ -1,2 +1,2 @@
 # android
-This repo contains all the dotNetCore programs
+This repo contains all the android programs
